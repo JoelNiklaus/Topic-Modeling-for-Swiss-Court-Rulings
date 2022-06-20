@@ -48,5 +48,7 @@ https://drive.google.com/file/d/1fSAjlctonmHIN37iL0vFcesZc5MMQTt_/view?usp=shari
 [2]F. Bianchi, S. Terragni, D. Hovy, D. Nozza, and E. Fersini, ‘Cross-lingual Contextualized Topic Models with Zero-shot Learning’, in Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume, Online, Apr. 2021, pp. 1676–1683. [Online]. Available: https://www.aclweb.org/anthology/2021.eacl-main.143
 
 Github Links:
+
 https://github.com/MaartenGr/BERTopic
+
 https://github.com/MilaNLProc/contextualized-topic-models
