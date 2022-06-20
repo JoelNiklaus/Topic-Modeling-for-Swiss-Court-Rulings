@@ -36,3 +36,9 @@ For an interactive session in the browser the jupyter notebook can be seen here:
 
 https://drive.google.com/file/d/1pLeBaMzvvfXjjnsjTtw_sPvdpUWzIQkl/view?usp=sharing
 
+## Model download
+
+The trained BERTopic model (~3GB) can be downloaded here:
+
+https://drive.google.com/file/d/1fSAjlctonmHIN37iL0vFcesZc5MMQTt_/view?usp=sharing
+
