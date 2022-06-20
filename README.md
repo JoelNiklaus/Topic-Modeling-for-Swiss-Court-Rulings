@@ -1,5 +1,5 @@
 # Topic modeling of Swiss Court Rulings
-### Research Center for Digital Sustainability**
+### Research Center for Digital Sustainability
 --
 Renato Rao, Marius Asadauskas, Dominik Ummel
 
